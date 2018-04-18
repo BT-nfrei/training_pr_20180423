@@ -2,3 +2,8 @@
 	path = brain-tec/l10n-switzerland
 	url = git@github.com:brain-tec/l10n-switzerland.git
 	branch = 11.0
+
+[submodule "brain-tec/bank-payment"]
+	path = brain-tec/bank-payment
+	url = git@github.com:brain-tec/bank-payment.git
+	branch = 11.0
