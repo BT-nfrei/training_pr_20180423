@@ -7,3 +7,8 @@
 	path = brain-tec/bank-payment
 	url = git@github.com:brain-tec/bank-payment.git
 	branch = 11.0
+
+[submodule "brain-tec/partner-contact"]
+	path = brain-tec/partner-contact
+	url = git@github.com:brain-tec/partner-contact.git
+	branch = 11.0
