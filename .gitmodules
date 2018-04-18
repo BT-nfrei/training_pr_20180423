@@ -1,0 +1,4 @@
+[submodule "brain-tec/l10n-switzerland"]
+	path = brain-tec/l10n-switzerland
+	url = git@github.com:brain-tec/l10n-switzerland.git
+	branch = 11.0
